@@ -15,7 +15,7 @@
             "lookup": "properties.NAME",
             "from": {
                 "data": {
-                    "url": "age_dem_test.csv"
+                    "url": "week10_homework/age_dem_test.csv"
                 },
                 "key": "Country",
                 "fields": ["2023"]
